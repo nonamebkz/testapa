@@ -20,3 +20,5 @@ func main(){
 
 	fmt.Println("okee")
 }
+
+// komen aja yaa
